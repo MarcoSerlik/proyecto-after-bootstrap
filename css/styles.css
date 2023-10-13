@@ -1,0 +1,11 @@
+.btn-azul {
+  background-color: #0e153a;
+  border: solid 2px #0e153a;
+  color: white;
+}
+
+.btn-azul:hover {
+  background-color: white;
+  color: #8011f2;
+  border-color: #8011f2;
+}
